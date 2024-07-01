@@ -1,0 +1,18 @@
+PS C:\Users\psriv\OneDrive\VSCODE\python code\Python> python Chatbot.py
+Welcome! I'm ChatGPT, your friendly chatbot.
+You can ask me questions or just say hello!
+Type 'quit' to exit the chat.
+You: hi
+ChatGPT: Hello!
+You: Hello 
+ChatGPT: Hi! How can I assist you today?
+You: how are you
+ChatGPT: I'm great, thanks for asking!
+You: help
+ChatGPT: Sure, I'd be happy to help. What do you need assistance with?
+You: movie
+ChatGPT: I'm sorry, I didn't understand that.
+You: foood
+ChatGPT: I'm sorry, I didn't understand that.
+You: food
+ChatGPT: I'm sorry, I didn't understand that.
